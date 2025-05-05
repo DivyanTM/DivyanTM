@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an Engineering student at EGSPEC Nagapattinam<br>i'm currently learning full stack development in java<br>i'm currently learning spring<br>
+I'm an Engineering student at EGSPEC Nagapattinam<br>Fullstack Development Intern at NTCPWC - IITM<br>i'm currently learning spring and Flutter<br>
 
 
 ## 🌐 Socials:
