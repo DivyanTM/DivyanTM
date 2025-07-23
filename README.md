@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack Development Intern at <b>NTCPWC - IITM</b>.<br>I'm an Engineering student at EGSPEC Nagapattinam<br>i'm currently learning spring and Flutter<br>
+Fullstack Development Intern at <b>NTCPWC - IITM</b>.<br>I'm an Engineering student at EGSPEC Nagapattinam<br>Proficient in <strong>Java</strong> stacks,<strong> MERN</strong>, <strong>MEAN</strong> and <strong>Cross Platform Mobile Application Development.</strong><br>
 
 
 ## 🌐 Socials:
