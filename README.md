@@ -1,27 +1,495 @@
-# 💫 About Me:
-Fullstack Development Intern at <b>NTCPWC - IITM</b>.<br>I'm an Engineering student at EGSPEC Nagapattinam<br>Proficient in <strong>Java</strong> stacks,<strong> MERN</strong>, <strong>MEAN</strong> and <strong>Cross Platform Mobile Application Development.</strong><br>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,45:111827,100:0d1117&text=DIVYAN%20TM&fontSize=58&fontColor=58A6FF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%2F%20FULL-STACK%20ENGINEER&descAlignY=58&descSize=16&descColor=8B949E&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=850&color=7EE787&center=true&vCenter=true&width=760&lines=%24+./divyan;Building+software+from+packets+to+pixels.;Full-stack+%7C+Real-time+%7C+Systems;C%2FC%2B%2B+%7C+Java+%7C+Rust+%7C+TypeScript" />
+
+<br><br>
+
+<a href="https://github.com/DivyanTM">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+<a href="https://linkedin.com/in/divyan-tm">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="https://instagram.com/divyan_tm">
+<img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/OPEN%20TO%20BUILDING-238636?style=flat-square&logo=statuspal&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/FOCUSED%20ON-SYSTEMS-1F6FEB?style=flat-square" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=DivyanTM&style=flat-square&label=VISITORS&color=21262d" />
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+
+<td width="55%" valign="top">
+
+<img src="https://img.shields.io/badge/%24%20WHOAMI-161B22?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+
+<br><br>
+
+# Hey, I'm Divyan.
+
+Software developer at **NTCPWC · IIT Madras** and final-year B.Tech IT student.
+
+I work across **backend, frontend, mobile and systems**, with a particular interest in software that has to deal with **real-time data, networking, visualization and performance**.
+
+My current direction is deeper systems work:
+
+**C → C++ → Rust**
+
+with the foundations underneath:
+
+`OS` · `Networking` · `Memory` · `CPU` · `Databases` · `Distributed Systems`
+
+</td>
+
+<td width="45%" valign="top">
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/divyan_tm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyan-tm) 
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DivyanTM&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DivyanTM&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanTM&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</td>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DivyanTM&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</tr>
+</table>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<table width="100%">
+<tr>
+<td>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DivyanTM&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- <img src="https://img.shields.io/badge/TERMINAL-111827?style=flat-square&logo=gnometerminal&logoColor=white"/> -->
 
----
-[![](https://visitcount.itsvg.in/api?id=DivyanTM&icon=0&color=0)](https://visitcount.itsvg.in)
+</td>
+</tr>
+<tr>
+<td>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ```text
+$ neofetch
+
+DIVYAN@DEV
+─────────────────────
+OS       Linux
+SHELL    fish
+EDITOR   VS Code
+LANG     C / C++ / Rust
+BACKEND  Java / Node
+FRONTEND Angular
+MOBILE   Flutter
+BROKER   Kafka
+DB       PostgreSQL
+``` -->
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/terminal.svg">
+
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TECH%20ARSENAL-161B22?style=for-the-badge&logo=stackshare&logoColor=58A6FF"/>
+
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td align="center" width="33%">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,rust&perline=3" width="150"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SYSTEMS-161B22?style=flat-square&logo=linux&logoColor=FCC624"/>
+
+<br>
+
+`C` · `C++` · `Rust`
+
+`Linux` · `Networking`
+
+`Memory` · `IPC`
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts&perline=4" width="180"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BACKEND-161B22?style=flat-square&logo=springboot&logoColor=6DB33F"/>
+
+<br>
+
+`Java` · `Spring`
+
+`Node.js` · `TypeScript`
+
+`REST` · `WebSocket`
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://skillicons.dev/icons?i=angular,react,flutter&perline=3" width="160"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/INTERFACES-161B22?style=flat-square&logo=angular&logoColor=DD0031"/>
+
+<br>
+
+`Angular` · `React`
+
+`Flutter`
+
+`Maps` · `Visualization`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=kafka,docker,nginx&perline=3" width="160"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/INFRASTRUCTURE-161B22?style=flat-square&logo=docker&logoColor=2496ED"/>
+
+<br>
+
+`Kafka` · `Docker`
+
+`Nginx` · `Linux`
+
+`CI / CD`
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&perline=4" width="190"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DATA-161B22?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+
+<br>
+
+`PostgreSQL` · `MySQL`
+
+`MongoDB` · `SQLite`
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,cmake&perline=4" width="190"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/TOOLING-161B22?style=flat-square&logo=git&logoColor=F05032"/>
+
+<br>
+
+`Git` · `GitHub`
+
+`GitLab` · `CMake`
+
+`Postman`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ENGINEERING%20INTERESTS-161B22?style=for-the-badge&logo=codeforces&logoColor=58A6FF"/>
+
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="25%" align="center">
+
+<img src="https://skillicons.dev/icons?i=linux" width="65"/>
+
+<br><br>
+
+### SYSTEMS
+
+<sub>Processes<br>Threads<br>Memory<br>Performance</sub>
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://skillicons.dev/icons?i=kafka" width="65"/>
+
+<br><br>
+
+### REAL-TIME
+
+<sub>TCP / UDP<br>Streaming<br>Messaging<br>Data pipelines</sub>
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://skillicons.dev/icons?i=docker" width="65"/>
+
+<br><br>
+
+### DISTRIBUTED
+
+<sub>Services<br>APIs<br>Infrastructure<br>Persistence</sub>
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://skillicons.dev/icons?i=angular" width="65"/>
+
+<br><br>
+
+### VISUALIZATION
+
+<sub>Maps<br>Dashboards<br>Real-time UI<br>Mobile</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/WORKING%20AROUND-161B22?style=for-the-badge&logo=googleearth&logoColor=58A6FF"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/REAL--TIME%20SYSTEMS-0D1117?style=for-the-badge&logo=activitypub&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/MARITIME%20TECHNOLOGY-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/NETWORKING-0D1117?style=for-the-badge&logo=cisco&logoColor=58A6FF"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/BACKEND%20SYSTEMS-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/DISTRIBUTED%20SYSTEMS-0D1117?style=for-the-badge&logo=apachekafka&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/SYSTEMS%20PROGRAMMING-0D1117?style=for-the-badge&logo=rust&logoColor=DEA584"/>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/%24%20CURRENTLY%20RUNNING-161B22?style=for-the-badge&logo=gnubash&logoColor=7EE787"/>
+
+<br><br>
+
+<table width="100%">
+<tr>
+<td>
+
+```text
+$ ps aux | grep learning
+
+C / C++              ██████████████████
+Rust                 ███████████████
+Linux                █████████████████
+Networking            ███████████████
+Operating Systems     ████████████
+Computer Architecture ██████████
+Distributed Systems   ███████████
+```
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-238636?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GITHUB%20DASHBOARD-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=DivyanTM&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanTM&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="175"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=DivyanTM&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CONTRIBUTION%20MATRIX-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanTM&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%"/>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ACHIEVEMENTS-161B22?style=for-the-badge&logo=github&logoColor=F0E68C"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=DivyanTM&theme=github_dark&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+
+<td width="65%" valign="middle">
+
+<img src="https://img.shields.io/badge/%24%20cat%20%7E%2Fdirection.txt-161B22?style=for-the-badge&logo=gnubash&logoColor=58A6FF"/>
+
+<br><br>
+
+### Going deeper.
+
+I'm interested in understanding software below the abstraction layer.
+
+```text
+Application
+     ↓
+Framework
+     ↓
+Runtime
+     ↓
+Operating System
+     ↓
+Networking / Memory
+     ↓
+CPU / Hardware
+```
+
+The long-term direction is simple:
+
+**write software → understand the system → write better software.**
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,c,cpp,rust" width="180"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SYSTEMS%20MODE-161B22?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/%24%20EXIT-161B22?style=for-the-badge&logo=gnubash&logoColor=7EE787"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&lines=%24+git+**status**;%3E+working+tree+clean;%24+make;%3E+building...;%24+./main;%3E+keep+going." />
+
+<br><br>
+
+<a href="https://github.com/DivyanTM">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/divyan-tm">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/divyan_tm">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=120&section=footer" width="100%"/>
+
+</div>
