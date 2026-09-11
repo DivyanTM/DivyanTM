@@ -68,56 +68,10 @@ with the foundations underneath:
 </tr>
 </table>
 
-<table width="100%">
-<tr>
-<td>
-
-<!-- <img src="https://img.shields.io/badge/TERMINAL-111827?style=flat-square&logo=gnometerminal&logoColor=white"/> -->
-
-</td>
-</tr>
-<tr>
-<td>
-
-<!-- ```text
-$ neofetch
-
-DIVYAN@DEV
-─────────────────────
-OS       Linux
-SHELL    fish
-EDITOR   VS Code
-LANG     C / C++ / Rust
-BACKEND  Java / Node
-FRONTEND Angular
-MOBILE   Flutter
-BROKER   Kafka
-DB       PostgreSQL
-``` -->
-
-</td>
-</tr>
-</table>
-
-<img src="./assets/terminal.svg">
-
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/TECH%20ARSENAL-161B22?style=for-the-badge&logo=stackshare&logoColor=58A6FF"/>
-
-</div>
-
-<br>
-
-<table width="100%">
+<table style="width:100%; table-layout:fixed;">
 <tr>
 
-<td align="center" width="33%">
+<td style="width:33.333%; text-align:center; vertical-align:top;">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,rust&perline=3" width="150"/>
 
@@ -135,7 +89,7 @@ DB       PostgreSQL
 
 </td>
 
-<td align="center" width="33%">
+<td style="width:33.333%; text-align:center; vertical-align:top;">
 
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts&perline=4" width="180"/>
 
@@ -153,7 +107,7 @@ DB       PostgreSQL
 
 </td>
 
-<td align="center" width="33%">
+<td style="width:33.333%; text-align:center; vertical-align:top;">
 
 <img src="https://skillicons.dev/icons?i=angular,react,flutter&perline=3" width="160"/>
 
@@ -175,7 +129,7 @@ DB       PostgreSQL
 
 <tr>
 
-<td align="center">
+<td style="width:33.333%; text-align:center; vertical-align:top;">
 
 <img src="https://skillicons.dev/icons?i=kafka,docker,nginx&perline=3" width="160"/>
 
@@ -193,7 +147,7 @@ DB       PostgreSQL
 
 </td>
 
-<td align="center">
+<td style="width:33.333%; text-align:center; vertical-align:top;">
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&perline=4" width="190"/>
 
@@ -209,7 +163,7 @@ DB       PostgreSQL
 
 </td>
 
-<td align="center">
+<td style="width:33.333%; text-align:center; vertical-align:top;">
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,cmake&perline=4" width="190"/>
 
